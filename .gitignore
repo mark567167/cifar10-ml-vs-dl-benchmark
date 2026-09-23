@@ -1,0 +1,12 @@
+# Ignore python cache folder
+__pycache__/
+
+# Ignore dataset directory
+data/
+
+# Ignore PowerPoint files
+*.pptx
+
+# Ignore PyTorch saved weights/models if created later
+*.pth
+*.pt
